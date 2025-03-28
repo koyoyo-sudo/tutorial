@@ -1,3 +1,4 @@
-サル先生のgitコマンド
-add 変更をインデックスに登録する
+サル先生のgitコマンチE
+add 変更をインチE��クスに登録する
 commit �C���f�b�N�X�̏�Ԃ��L�^����
+pull �����[�g���|�W�g���̓��e���擾����
